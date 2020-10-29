@@ -2,6 +2,10 @@
 
 This site is an index of `barktler` API solution.
 
+## Resources
+
+-   [Core Modules](./modules/core.md)
+
 ## Links
 
 -   Barktler Github Page > [Barktler Github](//github.com/Barktler)
