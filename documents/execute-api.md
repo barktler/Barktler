@@ -14,4 +14,20 @@ yarn add @barktler/axios-driver
 npm install @barktler/axios-driver --save
 ```
 
-## Use Driver
+## Execute
+
+Run the following code with the `GoogleSearchAPI` created earlier.
+
+```ts
+import { axiosDriver } from "@barktler/driver-axios";
+
+const api: GoogleSearchAPI = GoogleSearchAPI.create();
+api.useDriver(axiosDriver);
+api.search("hello").then(console.log);
+```
+
+Note again, use driver is required before you execute the action.
+
+## Unit Test
+
+We also provided the `@barktler/mock-driver` that allow user mock and execute request locally for testing proposes.
