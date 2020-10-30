@@ -1,6 +1,6 @@
 # Data Verify
 
-Data verify for API created with Barktler can me implemented easily. 
+Data verify for API created with Barktler can be implemented easily. 
 
 The data pattern is provided by `@sudoo/pattern` see it's document at [Sudoo Pattern Documents](//pattern.sudo.dog).
 
@@ -8,7 +8,7 @@ The data pattern is provided by `@sudoo/pattern` see it's document at [Sudoo Pat
 
 For data verify, declare data should be done first. Both request data and response data verify are supported. 
 
-For example, continue from the `GoogleSearchAPI` Barktler API class. The following `TypeScript` code show you the steps to declare response data pattern.
+For example, continue from the `GoogleSearchAPI` Barktler API class. The following `TypeScript` code shows you the steps to declare a response data pattern.
 
 ```ts
 import { Barktler } from "@barktler/core";
@@ -30,7 +30,7 @@ class GoogleSearchAPI extends Barktler {
 }
 ```
 
-The above code declares the response data should be a JavaScript Object, which should has a property named `hello`, with some value typed with `string`.
+The above code declares the response data should be a JavaScript Object, a property named `hello`, with some value typed with `string`.
 
 ## Verify Data
 
@@ -51,11 +51,11 @@ class GoogleSearchAPI extends Barktler {
 }
 ```
 
-In a Barktler instance above, the data validate function will be execute every time the class is instantiate, the request is sent, and when the data is received.
+In a Barktler instance above, the data validate function will be executed every time the class is instantiated, the request is sent, and when the data is received.
 
 ## Dynamic
 
-All declare and hook action sure can be made differently after is instantiate. Like the following code.
+All declare and hook action sure can be made differently after is instantiated like the following code.
 
 ```ts
 const api: GoogleSearchAPI = GoogleSearchAPI.create();
