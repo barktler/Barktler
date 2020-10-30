@@ -8,6 +8,7 @@ This site is an index of `barktler` API solution.
 
 -   [Create an API](./documents/create-an-api.md)
 -   [Execute API](./documents/execute-api.md)
+-   [Data Verify](./documents/data-verify.md)
 
 ## Resources
 

@@ -33,3 +33,41 @@ class GoogleSearchAPI extends Barktler {
 The above code declares the response data should be a JavaScript Object, which should has a property named `hello`, with some value typed with `string`.
 
 ## Verify Data
+
+To verify the data, you can attach a hook onto the Barktler instance.
+
+```ts
+import { Barktler } from "@barktler/core";
+
+class GoogleSearchAPI extends Barktler {
+
+    private constructor() {
+
+        super();
+        super.postHook.verifier.add((data: IResponseConfig) => {
+            return validate(data.responseDataPattern, data.data));
+        });
+    }
+}
+```
+
+In a Barktler instance above, the data validate function will be execute every time the class is instantiate, the request is sent, and when the data is received.
+
+## Dynamic
+
+All declare and hook action sure can be made differently after is instantiate. Like the following code.
+
+```ts
+const api: GoogleSearchAPI = GoogleSearchAPI.create();
+api._declareResponseDataPattern({
+    type: 'map',
+    map: {
+        hello: {
+            type: 'string',
+        },
+    },
+});
+api.postHook.verifier.add((data: IResponseConfig) => {
+    return validate(data.responseDataPattern, data.data));
+});
+```
