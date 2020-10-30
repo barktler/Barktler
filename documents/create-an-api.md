@@ -12,4 +12,34 @@ yarn add @barktler/core
 npm install @barktler/core --save
 ```
 
-## Initial
+## First API
+
+Let's write a simple API with allow us get the webpage of google search result.
+
+Google provide a simple url for searching, for example, the url of search keyword `hello` will be: `https://www.google.com/search?q=hello`.
+
+The `TypeScript` code for the described API will look like this.
+
+```ts
+import { Barktler } from "@barktler/core";
+
+class GoogleSearchAPI extends Barktler {
+
+    public static create(): GoogleSearchAPI {
+
+        return new GoogleSearchAPI();
+    }
+
+    public async search(keyword: string): Promise<string> {
+
+        const data: string = await this._requestForData({
+
+            url: `https://www.google.com/search?q=${keyword}`,
+            method: 'GET',
+        });
+        return data;
+    }
+}
+```
+
+And that's it, your api is ready, and the variety features of that class is ready to ship!

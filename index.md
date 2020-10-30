@@ -4,6 +4,10 @@ This site is an index of `barktler` API solution.
 
 > Work in Progress
 
+## Documents
+
+-   [Create an API](./documents/create-an-api.md)
+
 ## Resources
 
 -   [API Modules Status List](./modules/api.md)
