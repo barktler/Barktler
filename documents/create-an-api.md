@@ -1,10 +1,10 @@
 # Create an API
 
-Create an API with Barktler is very simple. This document will help you get to know about create a simple API with Barktler.
+Create an API with Barktler is very simple. This document will help you get to know about creating a simple API with Barktler.
 
 ## Install
 
-Run the following command under your project folder to install required dependencies.
+Run the following command under your project folder to install the required dependencies.
 
 ```sh
 yarn add @barktler/core
@@ -14,9 +14,9 @@ npm install @barktler/core --save
 
 ## First API
 
-Let's write a simple API with allow us get the webpage of google search result.
+Let's write a simple API with allow us to get the webpage of Google search result.
 
-Google provide a simple url for searching, for example, the url of search keyword `hello` will be: `https://www.google.com/search?q=hello`.
+Google provides a simple URL for searching. For example, the URL of the search keyword `hello` will be: `https://www.google.com/search?q=hello`.
 
 The `TypeScript` code for the described API will look like this.
 
@@ -42,4 +42,8 @@ class GoogleSearchAPI extends Barktler {
 }
 ```
 
-And that's it, your api is ready, and the variety features of that class is ready to ship!
+And that's it, your API is ready, and the various features of that class is ready to ship!
+
+## Next
+
+See [Execute API](./execute-api.md) for how to use your created API.
