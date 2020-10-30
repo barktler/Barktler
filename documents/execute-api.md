@@ -1,10 +1,10 @@
 # Execute API
 
-This document will give a scenario to use API created by Barktler. Before get started, you can try to create an API with Barktler, see [Create an API](./create-an-api.md).
+This document will give a scenario to use API created by Barktler. Before getting started, you can try to create an API with Barktler. See [Create an API](./create-an-api.md).
 
 ## Install Driver
 
-A driver is required for actually sending a request. For starters, we recommend `@barktler/axios-driver`. You can see the full list of supported driver at [Driver Modules Status List](../modules/driver.md), you can also create your own driver if needed.
+A driver is required for actually sending a request. For starters, we recommend `@barktler/axios-driver`. You can see the supported driver's full list at [Driver Modules Status List](../modules/driver.md). You can also create your own driver if needed.
 
 To install `@barktler/axios-driver`, run the following command under your project folder.
 
