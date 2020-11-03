@@ -31,3 +31,7 @@ class GoogleSearchAPI extends Barktler {
 You can implement some complex object structures to support data canceling.
 
 Using the `super._requestForPendingRequest` requesting method, data validation, processing, and post-hook side effect will not execute.
+
+## Next
+
+See [Use Mixin](./use-mixin.md) for how to use a mixin to enhance your API call.
