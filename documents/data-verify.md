@@ -71,3 +71,7 @@ api.postHook.verifier.add((data: IResponseConfig) => {
     return validate(data.responseDataPattern, data.data));
 });
 ```
+
+## Next
+
+See [Life Cycle](./life-cycle.md) for the life cycle of Barktler Request.
