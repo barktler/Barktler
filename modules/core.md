@@ -1,15 +1,15 @@
 # Barktler Core Modules
 
-[Barktler Core](//github.com/Barktler/Core)
+[Barktler Core](https://github.com/Barktler/Core)
 
-[![Build Status](//travis-ci.com/Barktler/Core.svg?branch=master)](//travis-ci.com/Barktler/Core)
-[![codecov](//codecov.io/gh/Barktler/Core/branch/master/graph/badge.svg)](//codecov.io/gh/Barktler/Core)
-[![npm version](//badge.fury.io/js/%40barktler%2Fcore.svg)](//badge.fury.io/js/%40barktler%2Fcore)
-[![downloads](//img.shields.io/npm/dm/@barktler/core.svg)](//www.npmjs.com/package/@barktler/core)
+[![Build Status](https://travis-ci.com/Barktler/Core.svg?branch=master)](https://travis-ci.com/Barktler/Core)
+[![codecov](https://codecov.io/gh/Barktler/Core/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Core)
+[![npm version](https://badge.fury.io/js/%40barktler%2Fcore.svg)](https://badge.fury.io/js/%40barktler%2Fcore)
+[![downloads](https://img.shields.io/npm/dm/@barktler/core.svg)](https://www.npmjs.com/package/@barktler/core)
 
-[Barktler Driver](//github.com/Barktler/Driver)
+[Barktler Driver](https://github.com/Barktler/Driver)
 
-[![Build Status](//travis-ci.com/Barktler/Driver.svg?branch=master)](//travis-ci.com/Barktler/Driver)
-[![codecov](//codecov.io/gh/Barktler/Driver/branch/master/graph/badge.svg)](//codecov.io/gh/Barktler/Driver)
-[![npm version](//badge.fury.io/js/%40barktler%2Fdriver.svg)](//badge.fury.io/js/%40barktler%2Fdriver)
-[![downloads](//img.shields.io/npm/dm/@barktler/driver.svg)](//www.npmjs.com/package/@barktler/driver)
+[![Build Status](https://travis-ci.com/Barktler/Driver.svg?branch=master)](https://travis-ci.com/Barktler/Driver)
+[![codecov](https://codecov.io/gh/Barktler/Driver/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver)
+[![npm version](https://badge.fury.io/js/%40barktler%2Fdriver.svg)](https://badge.fury.io/js/%40barktler%2Fdriver)
+[![downloads](https://img.shields.io/npm/dm/@barktler/driver.svg)](https://www.npmjs.com/package/@barktler/driver)

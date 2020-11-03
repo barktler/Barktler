@@ -2,7 +2,7 @@
 
 Data verification for API created with Barktler can be implemented easily. 
 
-The data pattern is provided by `@sudoo/pattern` see it's document at [Sudoo Pattern Documents](//pattern.sudo.dog).
+The data pattern is provided by `@sudoo/pattern` see it's document at [Sudoo Pattern Documents](https://pattern.sudo.dog).
 
 ## Declare Pattern
 
