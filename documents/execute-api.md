@@ -26,7 +26,7 @@ api.useDriver(axiosDriver);
 api.search("hello").then(console.log);
 ```
 
-Note again, use driver is required before you execute the action.
+Note again that `useDriver` is required before you execute the action.
 
 ## Unit Test
 

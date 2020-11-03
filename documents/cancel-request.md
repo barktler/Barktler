@@ -1,6 +1,6 @@
 # Cancel Request
 
-Request can be cancel before the response has received. Therefore, if the API implemented with Barktler want to support request cancel, the calling method must use `super._requestForPendingRequest`.
+Requests can be cancel before the response has been received. Therefore, if the API implemented with Barktler wants to support request cancel, the calling method must use `super._requestForPendingRequest`.
 
 Considering the following example:
 
@@ -28,6 +28,6 @@ class GoogleSearchAPI extends Barktler {
 }
 ```
 
-You can implement some complex object structure to support data canceling.
+You can implement some complex object structures to support data canceling.
 
-Note that, when using `super._requestForPendingRequest` requesting method, data validation, processing and post hook side effect will not execute.
+Using the `super._requestForPendingRequest` requesting method, data validation, processing, and post-hook side effect will not execute.

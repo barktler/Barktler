@@ -1,12 +1,12 @@
 # Data Verify
 
-Data verify for API created with Barktler can be implemented easily. 
+Data verification for API created with Barktler can be implemented easily. 
 
 The data pattern is provided by `@sudoo/pattern` see it's document at [Sudoo Pattern Documents](//pattern.sudo.dog).
 
 ## Declare Pattern
 
-For data verify, declare data should be done first. Both request data and response data verify are supported. 
+For data verification, declare data should be done first. Both request data and response data verify are supported. 
 
 For example, continue from the `GoogleSearchAPI` Barktler API class. The following `TypeScript` code shows you the steps to declare a response data pattern.
 
