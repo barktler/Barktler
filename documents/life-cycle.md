@@ -28,3 +28,7 @@ These request method each will return the states of executing request.
     -   where `super._requestForResponseConfig` return
 -   Get response data
     -   where `super._requestForData` return
+
+## Next
+
+See [Cancel Request](./cancel-request.md) for the instruction of request cancelling as the first usage example of life cycle knowledge.

@@ -10,6 +10,7 @@ This site is an index of `barktler` API solution.
 -   [Execute API](./documents/execute-api.md)
 -   [Data Verify](./documents/data-verify.md)
 -   [Life Cycle](./documents/life-cycle.md)
+-   [Cancel Request](./documents/cancel-request.md)
 
 ## Resources
 
