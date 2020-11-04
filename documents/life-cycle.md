@@ -8,25 +8,25 @@ For an API class extends Barktler, the following request method can be used for 
 
 These request methods each will return the states of executing a request.
 
--   Verify Request
--   _Await Pre Hook Verify_
+-   **Verify Request**
+-   _<span style="color:gray">Await Pre Hook Verify<span>_
     -   If invalid, execute the PreVerifyFailing function
--   Process Request
--   _Await Pre Hook Process_
--   Execute Pre Hook Side Effects
--   _Await Pre Hook Side Effects_
--   Send Request
+-   **Process Request**
+-   _<span style="color:gray">Await Pre Hook Process<span>_
+-   **Execute Pre Hook Side Effects**
+-   _<span style="color:gray">Await Pre Hook Side Effects<span>_
+-   **Send Request**
     -   where `super._requestForPendingRequest` return
--   _Await Response_
--   Verify Response
--   _Await Post Hook Verify_
+-   _<span style="color:gray">Await Response<span>_
+-   **Verify Response**
+-   _<span style="color:gray">Await Post Hook Verify<span>_
     -   If invalid, execute the PostVerifyFailing function
--   Process Response
--   _Await Post Hook Process_
--   Execute Post Hook Side Effects
--   _Await Post Hook Side Effects_
+-   **Process Response**
+-   _<span style="color:gray">Await Post Hook Process<span>_
+-   **Execute Post Hook Side Effects**
+-   _<span style="color:gray">Await Post Hook Side Effects<span>_
     -   where `super._requestForResponseConfig` return
--   Get response data
+-   **Get response data**
     -   where `super._requestForData` return
 
 ## Next
