@@ -1,6 +1,6 @@
 # Manually Trigger Hooks
 
-For version `@barktler/core >=2.5.0`, manually hooks triggering function are supported.
+For version `@barktler/core >=2.5.0`, manually hooks triggering function is supported.
 
 Considering the following example:
 
@@ -28,6 +28,6 @@ class GoogleSearchAPI extends Barktler {
 }
 ```
 
-The above example called `super._requestForPendingRequest(request)` for cancelling support. But the validation, processing and side effect execution are skipped due to the response uncertainty. In case of that, calling `super._triggerPostHook(responseData)` will ensure post hook executed manually.
+The above example is called `super._requestForPendingRequest(request)` for canceling support. But the validation, processing, and side effect execution are skipped due to the response uncertainty. In case of that, calling `super._triggerPostHook(responseData)` will ensure the post hook is executed manually.
 
 Function `super._triggerPostHook(responseData)` return new `responseData` that got processed or `null`. Returning `null` indicates the validation failing.
