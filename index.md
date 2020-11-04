@@ -4,14 +4,14 @@ This site is an index of `barktler` API solution.
 
 > Work in Progress
 
-## Documents
+## Quick Start
 
--   [Create an API](./documents/create-an-api.md)
--   [Execute API](./documents/execute-api.md)
--   [Data Verify](./documents/data-verify.md)
--   [Life Cycle](./documents/life-cycle.md)
--   [Cancel Request](./documents/cancel-request.md)
--   [Use Mixin](./documents/use-mixin.md)
+-   [Create an API](./quick-start/create-an-api.md)
+-   [Execute API](./quick-start/execute-api.md)
+-   [Data Verify](./quick-start/data-verify.md)
+-   [Life Cycle](./quick-start/life-cycle.md)
+-   [Cancel Request](./quick-start/cancel-request.md)
+-   [Use Mixin](./quick-start/use-mixin.md)
 
 ## Resources
 
