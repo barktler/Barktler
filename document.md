@@ -6,4 +6,4 @@ See [Barktler Index](./index.md) for quick start.
 
 ## M
 
--   [Manually Trigger Hooks](./documents/manually-trigger-hooks.md)
+-   [Manually Trigger Hooks](./document/manually-trigger-hooks.md)
