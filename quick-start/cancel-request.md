@@ -31,7 +31,7 @@ class GoogleSearchAPI extends Barktler {
 You can implement some complex object structures to support data canceling.
 
 Using the `super._requestForPendingRequest` requesting method, data validation, processing, and post-hook side effect will not execute.  
-For version `@barktler/core >=2.5.0`, execute `super._triggerPostHook(responseData)`, could makeup the validation, processing and side effects. See [Manually Trigger Hooks](../documents/manually-trigger-hooks.md) for more details of hook execution.
+For version `@barktler/core >=2.5.0`, execute `super._triggerPostHook(responseData)`, could makeup the validation, processing and side effects. See [Manually Trigger Hooks](../document/manually-trigger-hooks.md) for more details of hook execution.
 
 ## Next
 
