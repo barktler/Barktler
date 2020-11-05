@@ -53,6 +53,8 @@ class GoogleSearchAPI extends Barktler {
 
 In a Barktler instance above, the data validate function will be executed every time the class is instantiated, the request is sent, and when the data is received.
 
+> A mixin: `@barktler/mixin-verify` can do this automatically, see [Use Mixin](./use-mixin) for detailed instruction.
+
 ## Dynamic
 
 All declare and hook action sure can be made differently after is instantiated like the following code.
