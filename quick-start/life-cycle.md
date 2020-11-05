@@ -8,6 +8,7 @@ For an API class extends Barktler, the following request method can be used for 
 
 These request methods each will return the states of executing a request.
 
+-   **Find Driver**
 -   **Verify Request**
 -   _<span style="color:gray">Await Pre Hook Verify<span>_
     -   If invalid, execute the PreVerifyFailing function

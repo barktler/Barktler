@@ -14,6 +14,8 @@ yarn add @barktler/axios-driver
 npm install @barktler/axios-driver --save
 ```
 
+Barktler instance has different ways to find a driver to use; see [Search Driver](../document/search-driver.md) for more details.
+
 ## Execute
 
 Run the following code with the `GoogleSearchAPI` created earlier.
