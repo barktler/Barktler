@@ -21,10 +21,10 @@ Barktler instance has different ways to find a driver to use; see [Search Driver
 Run the following code with the `GoogleSearchAPI` created earlier.
 
 ```ts
-import { axiosDriver } from "@barktler/driver-axios";
+import { createAxiosDriver } from "@barktler/driver-axios";
 
 const api: GoogleSearchAPI = GoogleSearchAPI.create();
-api.useDriver(axiosDriver);
+api.useDriver(createAxiosDriver());
 api.search("hello").then(console.log);
 ```
 
