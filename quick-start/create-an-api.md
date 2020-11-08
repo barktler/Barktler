@@ -44,6 +44,10 @@ class GoogleSearchAPI extends Barktler {
 
 And that's it, your API is ready, and the various features of that class is ready to ship!
 
+## Config
+
+API created by Barktler is multi-dimension configurable, see [Runtime Config](../documents/runtime-config.md).
+
 ## Next
 
 See [Execute API](./execute-api.md) for how to use your created API.

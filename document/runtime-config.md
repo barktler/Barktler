@@ -1,6 +1,6 @@
 # Runtime Config
 
-Barktler supports runtime config, which can be accessed by extended class APIs, Drivers and Mixins.
+Barktler supports runtime config, which can be accessed by extended class APIs, Drivers, and Mixins.
 
 ## Set Config
 
@@ -13,7 +13,7 @@ const api: GoogleSearchAPI = GoogleSearchAPI.create();
 api.setConfig('padLeft', 100);
 ```
 
-The config will be apply and only applied on the single instance.
+The config will be applied and only applied to a single instance.
 
 ## Read Config
 

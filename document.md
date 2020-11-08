@@ -11,3 +11,7 @@ See [Barktler Index](./index.md) for quick start.
 ## S
 
 -   [Search Driver](./document/search-driver.md)
+
+## R
+
+-   [Runtime Config](./document/runtime-config.md)
