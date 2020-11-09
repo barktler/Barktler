@@ -7,6 +7,8 @@
 [![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-debug-log.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-debug-log)
 [![downloads](https://img.shields.io/npm/dm/@barktler/mixin-debug-log.svg)](https://www.npmjs.com/package/@barktler/mixin-debug-log)
 
+-   Platform Supported: Web / NodeJS
+-   [Documents](//debug-log.mixin.barktler.com)
 -   [Github](//github.com/Barktler/Mixin-Debug-Log)
 -   [NPM](//www.npmjs.com/package/@barktler/mixin-debug-log)
 
@@ -17,5 +19,7 @@
 [![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-verify.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-verify)
 [![downloads](https://img.shields.io/npm/dm/@barktler/mixin-verify.svg)](https://www.npmjs.com/package/@barktler/mixin-verify)
 
+-   Platform Supported: Web / NodeJS
+-   [Documents](//verify.mixin.barktler.com)
 -   [Github](//github.com/Barktler/Mixin-Verify)
 -   [NPM](//www.npmjs.com/package/@barktler/mixin-verify)
