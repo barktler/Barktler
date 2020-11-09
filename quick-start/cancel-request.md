@@ -22,8 +22,8 @@ class GoogleSearchAPI extends Barktler {
             method: 'GET',
         });
 
-        // await pendingRequest.response; -> Wait for response data
-        // pendingRequest.cancel(); -> cancel request
+        await pendingRequest.response; -> Wait for response data
+        pendingRequest.cancel(); -> cancel request
     }
 }
 ```
