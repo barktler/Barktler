@@ -11,13 +11,16 @@ This site is an index of `barktler` API solution.
 -   [Cancel Request](./quick-start/cancel-request.md)
 -   [Use Mixin](./quick-start/use-mixin.md)
 
-## Resources
+## Documents
 
 -   [Documents](./document.md)
--   [API Modules Status List](./modules/api.md)
+
+## Resources
+
 -   [Core Modules Status List](./modules/core.md)
 -   [Driver Modules Status List](./modules/driver.md)
 -   [Mixin Modules Status List](./modules/mixin.md)
+-   [API Modules Status List](./modules/api.md)
 
 ## Links
 
