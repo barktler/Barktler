@@ -1,6 +1,6 @@
 # Barktler Driver Modules
 
-## [Barktler Driver Fetch](https://github.com/Barktler/Driver-Fetch)
+## [Fetch](https://github.com/Barktler/Driver-Fetch)
 
 [![Build Status](https://travis-ci.com/Barktler/Driver-Fetch.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Fetch)
 [![codecov](https://codecov.io/gh/Barktler/Driver-Fetch/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver-Fetch)
@@ -12,7 +12,7 @@
 -   [Github](//github.com/Barktler/Driver-Fetch)
 -   [NPM](//www.npmjs.com/package/@barktler/driver-fetch)
 
-## [Barktler Driver Axios](https://github.com/Barktler/Driver-Axios)
+## [Axios](https://github.com/Barktler/Driver-Axios)
 
 [![Build Status](https://travis-ci.com/Barktler/Driver-Axios.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Axios)
 [![codecov](https://codecov.io/gh/Barktler/Driver-Axios/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver-Axios)
@@ -24,7 +24,7 @@
 -   [Github](//github.com/Barktler/Driver-Axios)
 -   [NPM](//www.npmjs.com/package/@barktler/driver-axios)
 
-## [Barktler Driver Mock](https://github.com/Barktler/Driver-Mock)
+## [Mock](https://github.com/Barktler/Driver-Mock)
 
 [![Build Status](https://travis-ci.com/Barktler/Driver-Mock.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Mock)
 [![codecov](https://codecov.io/gh/Barktler/Driver-Mock/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver-Mock)

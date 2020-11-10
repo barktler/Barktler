@@ -1,6 +1,6 @@
 # Barktler Core Modules
 
-## [Barktler Core](https://github.com/Barktler/Core)
+## [Core](https://github.com/Barktler/Core)
 
 [![Build Status](https://travis-ci.com/Barktler/Core.svg?branch=master)](https://travis-ci.com/Barktler/Core)
 [![codecov](https://codecov.io/gh/Barktler/Core/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Core)
@@ -10,7 +10,7 @@
 -   [Github](//github.com/Barktler/Core)
 -   [NPM](//www.npmjs.com/package/@barktler/core)
 
-## [Barktler Driver](https://github.com/Barktler/Driver)
+## [Driver](https://github.com/Barktler/Driver)
 
 [![Build Status](https://travis-ci.com/Barktler/Driver.svg?branch=master)](https://travis-ci.com/Barktler/Driver)
 [![codecov](https://codecov.io/gh/Barktler/Driver/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver)
