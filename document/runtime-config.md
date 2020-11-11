@@ -15,6 +15,13 @@ api.setConfig('padLeft', 100);
 
 The config will be applied and only applied to a single instance.
 
+You can also call the following method to delete and clear configs.
+
+```ts
+api.deleteConfig(key);
+api.clearConfigs(key);
+```
+
 ## Read Config
 
 Consider the following code:
