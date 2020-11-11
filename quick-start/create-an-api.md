@@ -44,9 +44,13 @@ class GoogleSearchAPI extends Barktler {
 
 And that's it, your API is ready, and the various features of that class is ready to ship!
 
+## Timeout
+
+Timeout is supported by Barktler, see [Timeout](../document/timeout.md) for more details.
+
 ## Config
 
-API created by Barktler is multi-dimension configurable, see [Runtime Config](../documents/runtime-config.md).
+API created by Barktler is multi-dimension configurable, see [Runtime Config](../document/runtime-config.md).
 
 ## Next
 

@@ -57,3 +57,7 @@ class GoogleSearchAPI extends Barktler {
     }
 }
 ```
+
+## Global Config
+
+Barktler supports global config, see [Global Runtime Config](./global-runtime-config.md).
