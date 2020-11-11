@@ -1,6 +1,6 @@
 # Global Runtime Config
 
-When calling `instance.getConfig(key)`, config will be read and override by the following order:
+When calling `instance.getConfig(key)`, the config will be read and override by the following order:
 
 -   Global Config
 -   Instance Config
@@ -24,7 +24,7 @@ Barktler.clearGlobalConfigs(key);
 
 ## Read Config
 
-When only global config of a specific key had been set, global config can be read from instance.
+When only the global config of a specific key had been set, the global config can be read from the instance.
 
 ```ts
 import { GoogleSearchAPI } from "some-where-else";
@@ -33,7 +33,7 @@ const api: GoogleSearchAPI = GoogleSearchAPI.create();
 api.getConfig(key); // Global Config
 ```
 
-When instance config is also available, instance config will override the global configuration.
+When the instance config is also available, the instance config will override the global configuration.
 
 ```ts
 import { GoogleSearchAPI } from "some-where-else";
