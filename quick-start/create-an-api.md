@@ -4,7 +4,9 @@ Create an API with Barktler is very simple. This document will help you get to k
 
 ## Install
 
-Run the following command under your project folder to install the required dependencies.
+Make sure the Barktler package is installed.
+
+For install, run the following command under your project folder to install the required dependencies.
 
 ```sh
 yarn add @barktler/core
