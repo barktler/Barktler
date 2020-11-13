@@ -1,6 +1,6 @@
 # Error Handling
 
-Barktler support error handling and interceptors.
+Barktler supports error handling and interceptors.
 
 ## Example
 
@@ -13,9 +13,9 @@ const api: GoogleSearchAPI = GoogleSearchAPI.create();
 await api.search("<Something>");
 ```
 
-## Handle with try catch
+## Handle with try-catch
 
-When error occurs during request stage, you can catch the error by replace the above example with following code:
+When an error occurs during the request stage, you can catch the error by replacing the above example with the following code:
 
 ```ts
 import { GoogleSearchAPI } from "some-where-else";
@@ -30,7 +30,7 @@ try {
 
 ## Handle with promise chain methods
 
-The search response come with a promise, you can also do:
+The search response comes with a promise; you can also do:
 
 ```ts
 import { GoogleSearchAPI } from "some-where-else";
