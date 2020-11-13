@@ -4,6 +4,10 @@ The following articles are miscellaneous instructions and introductions. Ordered
 
 See [Barktler Index](./index.md) for quick start.
 
+## E
+
+-   [Error Handling](./document/error-handling.md)
+
 ## G
 
 -   [Global Runtime Config](./document/global-runtime-config.md)
