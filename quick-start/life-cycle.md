@@ -3,6 +3,7 @@
 For an API class extends Barktler, the following request method can be used for requesting.
 
 -   `super._requestForPendingRequest`
+-   `super._requestForHookedPendingRequest`
 -   `super._requestForResponseConfig`
 -   `super._requestForData`
 
@@ -26,6 +27,7 @@ These request methods each will return the states of executing a request.
 -   _<span style="color:gray">Await Post Hook Process<span>_
 -   **Execute Post Hook Side Effects**
 -   _<span style="color:gray">Await Post Hook Side Effects<span>_
+    -   where `super._requestForHookedPendingRequest` return with abort feature
     -   where `super._requestForResponseConfig` return
 -   **Get response data**
     -   where `super._requestForData` return
