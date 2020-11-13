@@ -4,7 +4,7 @@ Barktler supports runtime config, which can be accessed by extended class APIs, 
 
 ## Set Config
 
-Consider the following code;
+Consider the following code:
 
 ```ts
 import { GoogleSearchAPI } from "some-where-else";
