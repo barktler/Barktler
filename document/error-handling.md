@@ -38,7 +38,7 @@ import { GoogleSearchAPI } from "some-where-else";
 const api: GoogleSearchAPI = GoogleSearchAPI.create();
 api.search("<Something>").catch((reason: any) => {
     // Do something with reason
-})；
+});
 ```
 
 ## Error Hooks
