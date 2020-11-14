@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.com/Barktler/Mixin-Authorization.svg?branch=main)](https://travis-ci.com/Barktler/Mixin-Authorization)
 [![codecov](https://codecov.io/gh/Barktler/Mixin-Authorization/branch/main/graph/badge.svg)](https://codecov.io/gh/Barktler/Mixin-Authorization)
 [![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-authorization.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-authorization)
-[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-authorization.svg)](https://www.npmjs.com/package/@barktler/mixin-authotization)
+[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-authorization.svg)](https://www.npmjs.com/package/@barktler/mixin-authorization)
 
 -   Platform Supported: Web / NodeJS
 -   [Documents](//authorization.mixin.barktler.com)
@@ -35,6 +35,18 @@
 -   [Documents](//debug-log.mixin.barktler.com)
 -   [Github](//github.com/Barktler/Mixin-Debug-Log)
 -   [NPM](//www.npmjs.com/package/@barktler/mixin-debug-log)
+
+## [Object Trim](https://github.com/Barktler/Mixin-Object-Trim)
+
+[![Build Status](https://travis-ci.com/Barktler/Mixin-Object-Trim.svg?branch=main)](https://travis-ci.com/Barktler/Mixin-Object-Trim)
+[![codecov](https://codecov.io/gh/Barktler/Mixin-Object-Trim/branch/main/graph/badge.svg)](https://codecov.io/gh/Barktler/Mixin-Object-Trim)
+[![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-object-trim.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-object-trim)
+[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-object-trim.svg)](https://www.npmjs.com/package/@barktler/mixin-object-trim)
+
+-   Platform Supported: Web / NodeJS
+-   [Documents](//object-trim.mixin.barktler.com)
+-   [Github](//github.com/Barktler/Mixin-Object-Trim)
+-   [NPM](//www.npmjs.com/package/@barktler/mixin-object-trim)
 
 ## [Verify](https://github.com/Barktler/Mixin-Verify)
 
