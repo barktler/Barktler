@@ -1,11 +1,23 @@
 # Barktler Mixin Modules
 
+## [Authorization](https://github.com/Barktler/Mixin-Authorization)
+
+[![Build Status](https://travis-ci.com/Barktler/Mixin-Authorization.svg?branch=main)](https://travis-ci.com/Barktler/Mixin-Authorization)
+[![codecov](https://codecov.io/gh/Barktler/Mixin-Authorization/branch/main/graph/badge.svg)](https://codecov.io/gh/Barktler/Mixin-Authorization)
+[![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-authorization.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-authorization)
+[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-authorization.svg)](https://www.npmjs.com/package/@barktler/mixin-authotization)
+
+-   Platform Supported: Web / NodeJS
+-   [Documents](//authorization.mixin.barktler.com)
+-   [Github](//github.com/Barktler/Mixin-Authorization)
+-   [NPM](//www.npmjs.com/package/@barktler/mixin-authorization)
+
 ## [Base URL](https://github.com/Barktler/Mixin-Base-URL)
 
 [![Build Status](https://travis-ci.com/Barktler/Mixin-Base-URL.svg?branch=main)](https://travis-ci.com/Barktler/Mixin-Base-URL)
 [![codecov](https://codecov.io/gh/Barktler/Mixin-Base-URL/branch/main/graph/badge.svg)](https://codecov.io/gh/Barktler/Mixin-Base-URL)
 [![npm version](https://badge.fury.io/js/%40barktler%2Fmixin-base-url.svg)](https://badge.fury.io/js/%40barktler%2Fmixin-base-url)
-[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-base-url.svg)](https://www.npmjs.com/package/@barktler/mixin-verify)
+[![downloads](https://img.shields.io/npm/dm/@barktler/mixin-base-url.svg)](https://www.npmjs.com/package/@barktler/mixin-base-url)
 
 -   Platform Supported: Web / NodeJS
 -   [Documents](//base-url.mixin.barktler.com)
