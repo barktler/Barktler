@@ -1,17 +1,5 @@
 # Barktler Driver Modules
 
-## [Fetch](https://github.com/Barktler/Driver-Fetch)
-
-[![Build Status](https://travis-ci.com/Barktler/Driver-Fetch.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Fetch)
-[![codecov](https://codecov.io/gh/Barktler/Driver-Fetch/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver-Fetch)
-[![npm version](https://badge.fury.io/js/%40barktler%2Fdriver-fetch.svg)](https://badge.fury.io/js/%40barktler%2Fdriver-fetch)
-[![downloads](https://img.shields.io/npm/dm/@barktler/driver-fetch.svg)](https://www.npmjs.com/package/@barktler/driver-fetch)
-
--   Platform Supported: Web
--   [Documents](//fetch.driver.barktler.com)
--   [Github](//github.com/Barktler/Driver-Fetch)
--   [NPM](//www.npmjs.com/package/@barktler/driver-fetch)
-
 ## [Axios](https://github.com/Barktler/Driver-Axios)
 
 [![Build Status](https://travis-ci.com/Barktler/Driver-Axios.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Axios)
@@ -23,6 +11,18 @@
 -   [Documents](//axios.driver.barktler.com)
 -   [Github](//github.com/Barktler/Driver-Axios)
 -   [NPM](//www.npmjs.com/package/@barktler/driver-axios)
+
+## [Fetch](https://github.com/Barktler/Driver-Fetch)
+
+[![Build Status](https://travis-ci.com/Barktler/Driver-Fetch.svg?branch=master)](https://travis-ci.com/Barktler/Driver-Fetch)
+[![codecov](https://codecov.io/gh/Barktler/Driver-Fetch/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/Driver-Fetch)
+[![npm version](https://badge.fury.io/js/%40barktler%2Fdriver-fetch.svg)](https://badge.fury.io/js/%40barktler%2Fdriver-fetch)
+[![downloads](https://img.shields.io/npm/dm/@barktler/driver-fetch.svg)](https://www.npmjs.com/package/@barktler/driver-fetch)
+
+-   Platform Supported: Web
+-   [Documents](//fetch.driver.barktler.com)
+-   [Github](//github.com/Barktler/Driver-Fetch)
+-   [NPM](//www.npmjs.com/package/@barktler/driver-fetch)
 
 ## [Mock](https://github.com/Barktler/Driver-Mock)
 

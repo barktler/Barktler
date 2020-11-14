@@ -1,5 +1,15 @@
 # Barktler APIs
 
+## [League of Legends](https://github.com/Barktler/API-League-Of-Legends)
+
+[![Build Status](https://travis-ci.com/Barktler/API-League-Of-Legends.svg?branch=master)](https://travis-ci.com/Barktler/API-League-Of-Legends)
+[![codecov](https://codecov.io/gh/Barktler/API-League-Of-Legends/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/API-League-Of-Legends)
+[![npm version](https://badge.fury.io/js/%40barktler-api%2Fleague-of-legends.svg)](https://badge.fury.io/js/%40barktler-api%2Fleague-of-legends)
+[![downloads](https://img.shields.io/npm/dm/@barktler-api/league-of-legends.svg)](https://www.npmjs.com/package/@barktler-api/league-of-legends)
+
+-   [Github](//github.com/Barktler/API-League-Of-Legends)
+-   [NPM](//www.npmjs.com/package/@barktler-api/league-of-legends)
+
 ## [Steam](https://github.com/Barktler/API-Steam)
 
 [![Build Status](https://travis-ci.com/Barktler/API-Steam.svg?branch=master)](https://travis-ci.com/Barktler/API-Steam)
@@ -19,13 +29,3 @@
 
 -   [Github](//github.com/Barktler/API-Weather-Dot-Gov)
 -   [NPM](//www.npmjs.com/package/@barktler-api/weather-dot-gov)
-
-## [League of Legends](https://github.com/Barktler/API-League-Of-Legends)
-
-[![Build Status](https://travis-ci.com/Barktler/API-League-Of-Legends.svg?branch=master)](https://travis-ci.com/Barktler/API-League-Of-Legends)
-[![codecov](https://codecov.io/gh/Barktler/API-League-Of-Legends/branch/master/graph/badge.svg)](https://codecov.io/gh/Barktler/API-League-Of-Legends)
-[![npm version](https://badge.fury.io/js/%40barktler-api%2Fleague-of-legends.svg)](https://badge.fury.io/js/%40barktler-api%2Fleague-of-legends)
-[![downloads](https://img.shields.io/npm/dm/@barktler-api/league-of-legends.svg)](https://www.npmjs.com/package/@barktler-api/league-of-legends)
-
--   [Github](//github.com/Barktler/API-League-Of-Legends)
--   [NPM](//www.npmjs.com/package/@barktler-api/league-of-legends)
