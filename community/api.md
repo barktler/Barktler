@@ -1,4 +1,4 @@
-# Barktler APIs
+# Community APIs
 
 ## [League of Legends](https://github.com/Barktler/API-League-Of-Legends)
 
