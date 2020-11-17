@@ -28,7 +28,7 @@ npm install @barktler/core --save
 
 -   [Documents](./document.md)
 
-## Resources
+## Modules
 
 -   [Core Modules Status List](./modules/core.md)
 -   [Driver Modules Status List](./modules/driver.md)
