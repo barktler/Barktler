@@ -10,6 +10,7 @@ See [Barktler Index](./index.md) for quick start.
 
 ## G
 
+-   [Global Mixin](./document/global-mixin.md)
 -   [Global Runtime Config](./document/global-runtime-config.md)
 
 ## M

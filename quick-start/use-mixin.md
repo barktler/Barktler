@@ -39,3 +39,11 @@ const api: GoogleSearchAPI = GoogleSearchAPI.create();
 api.useMixin(createStringedVerifyMixin());
 api.search("hello"); // Will Verify request body and response data
 ```
+
+## Global Mixin
+
+For global mixin usage, see [Global Mixin](../document/global-mixin.md).
+
+## Next
+
+Enjoy Barktler!
