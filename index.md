@@ -36,7 +36,7 @@ npm install @barktler/core --save
 
 ## Community
 
--   [API Modules](./modules/api.md)
+-   [API Modules](./community/api.md)
 
 ## Links
 
