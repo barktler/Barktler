@@ -11,22 +11,22 @@ These request methods each will return the states of executing a request.
 
 -   **Find Driver**
 -   **Verify Request**
--   _<span style="color:gray">Await Pre Hook Verify<span>_
+-   <span style="color:gray;font-style:italic">Await Pre Hook Verify<span>
     -   If invalid, execute the PreVerifyFailing function
 -   **Process Request**
--   _<span style="color:gray">Await Pre Hook Process<span>_
+-   <span style="color:gray;font-style:italic">Await Pre Hook Process<span>
 -   **Execute Pre Hook Side Effects**
--   _<span style="color:gray">Await Pre Hook Side Effects<span>_
+-   <span style="color:gray;font-style:italic">Await Pre Hook Side Effects<span>
 -   **Send Request**
     -   where `super._requestForPendingRequest` return
--   _<span style="color:gray">Await Response<span>_
+-   <span style="color:gray;font-style:italic">Await Response<span>
 -   **Verify Response**
--   _<span style="color:gray">Await Post Hook Verify<span>_
+-   <span style="color:gray;font-style:italic">Await Post Hook Verify<span>
     -   If invalid, execute the PostVerifyFailing function
 -   **Process Response**
--   _<span style="color:gray">Await Post Hook Process<span>_
+-   <span style="color:gray;font-style:italic">Await Post Hook Process<span>
 -   **Execute Post Hook Side Effects**
--   _<span style="color:gray">Await Post Hook Side Effects<span>_
+-   <span style="color:gray;font-style:italic">Await Post Hook Side Effects<span>
     -   where `super._requestForHookedPendingRequest` return with abort feature
     -   where `super._requestForResponseConfig` return
 -   **Get response data**
