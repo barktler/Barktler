@@ -42,8 +42,8 @@ npm install @barktler/core --save
 
 -   Barktler Github Page > [Barktler Github](https://github.com/Barktler)
 -   [Brontosaurus](https://github.com/SudoDotDog/Brontosaurus) authorization solution > [Brontosaurus Land](https://brontosaurus.land)
--   SudoDotDog Package Index > [sudo.dog](https://sudo.dog)
--   BWNL Package Index > [BWNL.io](https://bwnl.io)
+-   SudoDotDog Packages Index > [sudo.dog](https://sudo.dog)
+-   BWNL Packages Index > [BWNL.io](https://bwnl.io)
 -   My personal blog > [WMXPY's Automated Bug Factory](https://mengw.io)
 
 > Built with Love by [WMXPY](https://github.com/WMXPY) & [PCXPY](https://github.com/PCXPY)
