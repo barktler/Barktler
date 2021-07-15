@@ -1,0 +1,22 @@
+title: Barktler
+email: wm@mengw.io
+description: Sudoo Packages Blog & Case Study
+url: https://barktler.com
+github_username: WMXPY
+theme: minima
+repository: WMXPY/barktler.com
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+author:
+  name: WMXPY
+  email: wm@mengw.io
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - .jekyll-cache/
+  - docs/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
