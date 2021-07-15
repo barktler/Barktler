@@ -1,3 +1,8 @@
+---
+title: Use Mixin
+layout: default
+---
+
 # Use Mixin
 
 Barktler supports mixin; see [Barktler Mixin Modules](../modules/mixin) for an official supported mixin list.

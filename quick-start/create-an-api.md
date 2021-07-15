@@ -1,3 +1,8 @@
+---
+title: Create an API
+layout: default
+---
+
 # Create an API
 
 Create an API with Barktler is very simple. This document will help you get to know about creating a simple API with Barktler.

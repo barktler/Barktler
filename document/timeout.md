@@ -1,3 +1,8 @@
+---
+title: Timeout
+layout: default
+---
+
 # Timeout
 
 Barktler supports request a timeout. Consider the following code:

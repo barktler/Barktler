@@ -1,3 +1,8 @@
+---
+title: Community APIs
+layout: default
+---
+
 # Community APIs
 
 ## [League of Legends](https://github.com/Barktler/API-League-Of-Legends)

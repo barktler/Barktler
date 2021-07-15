@@ -1,3 +1,8 @@
+---
+title: Documents
+layout: default
+---
+
 # Documents
 
 The following articles are miscellaneous instructions and introductions. Ordered by alphabetical.

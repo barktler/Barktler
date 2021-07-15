@@ -1,3 +1,8 @@
+---
+title: Error Handling
+layout: default
+---
+
 # Error Handling
 
 Barktler supports error handling and interceptors.

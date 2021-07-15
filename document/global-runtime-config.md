@@ -1,3 +1,8 @@
+---
+title: Global Runtime Config
+layout: default
+---
+
 # Global Runtime Config
 
 When calling `instance.getConfig(key)`, the config will be read and override by the following order:

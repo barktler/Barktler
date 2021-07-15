@@ -1,3 +1,8 @@
+---
+title: Data Verify
+layout: default
+---
+
 # Data Verify
 
 Data verification for API created with Barktler can be implemented easily. 

@@ -1,3 +1,8 @@
+---
+title: Runtime Config
+layout: default
+---
+
 # Runtime Config
 
 Barktler supports runtime config, which can be accessed by extended class APIs, Drivers, and Mixins.

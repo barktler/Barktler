@@ -1,3 +1,8 @@
+---
+title: Cancel Request
+layout: default
+---
+
 # Cancel Request
 
 Requests can be cancel before the response has been received. Therefore, if the API implemented with Barktler wants to support request cancel, the calling method must use `super._requestForPendingRequest`.

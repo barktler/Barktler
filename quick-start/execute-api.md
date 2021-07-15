@@ -1,3 +1,8 @@
+---
+title: Execute API
+layout: default
+---
+
 # Execute API
 
 This document will give a scenario to use API created by Barktler. Before getting started, you can try to create an API with Barktler. See [Create an API](./create-an-api).

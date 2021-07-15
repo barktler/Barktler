@@ -1,3 +1,8 @@
+---
+title: Global Mixin
+layout: default
+---
+
 # Global Mixin
 
 Barktler supports global mixin.

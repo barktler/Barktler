@@ -1,3 +1,8 @@
+---
+title: Barktler Mixin Modules
+layout: default
+---
+
 # Barktler Mixin Modules
 
 ## [Authorization](https://github.com/Barktler/Mixin-Authorization)

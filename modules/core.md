@@ -1,3 +1,8 @@
+---
+title: Barktler Core Modules
+layout: default
+---
+
 # Barktler Core Modules
 
 ## [Core](https://github.com/Barktler/Core)

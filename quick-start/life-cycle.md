@@ -1,3 +1,8 @@
+---
+title: Life Cycle
+layout: default
+---
+
 # Life Cycle
 
 For an API class extends Barktler, the following request method can be used for requesting.

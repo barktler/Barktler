@@ -1,6 +1,6 @@
 ---
 title: Barktler
-layout: default
+layout: home
 ---
 
 # Barktler

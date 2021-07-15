@@ -1,3 +1,8 @@
+---
+title: Manually Trigger Hooks
+layout: default
+---
+
 # Manually Trigger Hooks
 
 For version `@barktler/core >=2.5.0`, manually hooks triggering function is supported.
