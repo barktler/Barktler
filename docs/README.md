@@ -1,5 +1,5 @@
 # Barktler
 
-:dog: Index for Barktler
+Index for Barktler
 
 Hi, visit [Barktler.com](https://barktler.com)!

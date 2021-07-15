@@ -1,3 +1,8 @@
+---
+title: Barktler
+layout: default
+---
+
 # Barktler
 
 Barktler is an API creating solution.
