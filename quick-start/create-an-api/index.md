@@ -13,11 +13,12 @@ Make sure the Barktler package is installed.
 
 For install, run the following command under your project folder to install the required dependencies.
 
-```sh
-yarn add @barktler/core
-# Or
-npm install @barktler/core --save
-```
+{% include copyable-highlight.html
+    language="shell"
+    file="install-core.sh"
+%}
+
+{% include curl-link.html file="install-core.sh" %}
 
 ## First API
 
@@ -27,27 +28,10 @@ Google provides a simple URL for searching. For example, the URL of the search k
 
 The `TypeScript` code for the described API will look like this.
 
-```ts
-import { Barktler } from "@barktler/core";
-
-class GoogleSearchAPI extends Barktler {
-
-    public static create(): GoogleSearchAPI {
-
-        return new GoogleSearchAPI();
-    }
-
-    public async search(keyword: string): Promise<string> {
-
-        const data: string = await this._requestForData({
-
-            url: `https://www.google.com/search?q=${keyword}`,
-            method: 'GET',
-        });
-        return data;
-    }
-}
-```
+{% include copyable-highlight.html
+    language="typescript"
+    file="first-api.ts"
+%}
 
 And that's it, your API is ready, and the various features of that class is ready to ship!
 
