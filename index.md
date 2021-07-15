@@ -22,26 +22,26 @@ npm install @barktler/core --save
 
 ## Quick Start
 
--   [Create an API](./quick-start/create-an-api.md)
--   [Execute API](./quick-start/execute-api.md)
--   [Data Verify](./quick-start/data-verify.md)
--   [Life Cycle](./quick-start/life-cycle.md)
--   [Cancel Request](./quick-start/cancel-request.md)
--   [Use Mixin](./quick-start/use-mixin.md)
+-   [Create an API](./quick-start/create-an-api)
+-   [Execute API](./quick-start/execute-api)
+-   [Data Verify](./quick-start/data-verify)
+-   [Life Cycle](./quick-start/life-cycle)
+-   [Cancel Request](./quick-start/cancel-request)
+-   [Use Mixin](./quick-start/use-mixin)
 
 ## Documents
 
--   [Documents](./document.md)
+-   [Documents](./document)
 
 ## Modules
 
--   [Core Modules Status List](./modules/core.md)
--   [Driver Modules Status List](./modules/driver.md)
--   [Mixin Modules Status List](./modules/mixin.md)
+-   [Core Modules Status List](./modules/core)
+-   [Driver Modules Status List](./modules/driver)
+-   [Mixin Modules Status List](./modules/mixin)
 
 ## Community
 
--   [API Modules](./community/api.md)
+-   [API Modules](./community/api)
 
 ## Links
 

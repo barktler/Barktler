@@ -1,6 +1,6 @@
 # Use Mixin
 
-Barktler supports mixin; see [Barktler Mixin Modules](../modules/mixin.md) for an official supported mixin list.
+Barktler supports mixin; see [Barktler Mixin Modules](../modules/mixin) for an official supported mixin list.
 
 ## Usage
 
@@ -42,7 +42,7 @@ api.search("hello"); // Will Verify request body and response data
 
 ## Global Mixin
 
-For global mixin usage, see [Global Mixin](../document/global-mixin.md).
+For global mixin usage, see [Global Mixin](../document/global-mixin).
 
 ## Next
 

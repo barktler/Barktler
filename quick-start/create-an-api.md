@@ -48,12 +48,12 @@ And that's it, your API is ready, and the various features of that class is read
 
 ## Timeout
 
-Timeout is supported by Barktler, see [Timeout](../document/timeout.md) for more details.
+Timeout is supported by Barktler, see [Timeout](../document/timeout) for more details.
 
 ## Config
 
-API created by Barktler is multi-dimension configurable, see [Runtime Config](../document/runtime-config.md).
+API created by Barktler is multi-dimension configurable, see [Runtime Config](../document/runtime-config).
 
 ## Next
 
-See [Execute API](./execute-api.md) for how to use your created API.
+See [Execute API](./execute-api) for how to use your created API.

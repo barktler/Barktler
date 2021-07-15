@@ -76,4 +76,4 @@ api.postHook.verifier.add((data: IResponseConfig) => {
 
 ## Next
 
-See [Life Cycle](./life-cycle.md) for the life cycle of Barktler Request.
+See [Life Cycle](./life-cycle) for the life cycle of Barktler Request.

@@ -32,8 +32,8 @@ These request methods each will return the states of executing a request.
 -   **Get response data**
     -   where `super._requestForData` return
 
-When error occurs within request stage, an error will be thrown, see [Error Handling](../document/error-handling.md) for details. 
+When error occurs within request stage, an error will be thrown, see [Error Handling](../document/error-handling) for details. 
 
 ## Next
 
-See [Cancel Request](./cancel-request.md) for the instruction of request canceling as the first usage example of life cycle knowledge.
+See [Cancel Request](./cancel-request) for the instruction of request canceling as the first usage example of life cycle knowledge.

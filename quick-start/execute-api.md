@@ -1,10 +1,10 @@
 # Execute API
 
-This document will give a scenario to use API created by Barktler. Before getting started, you can try to create an API with Barktler. See [Create an API](./create-an-api.md).
+This document will give a scenario to use API created by Barktler. Before getting started, you can try to create an API with Barktler. See [Create an API](./create-an-api).
 
 ## Install Driver
 
-A driver is required for actually sending a request. For starters, we recommend `@barktler/axios-driver`. You can see the supported driver's full list at [Driver Modules Status List](../modules/driver.md). You can also create your own driver if needed.
+A driver is required for actually sending a request. For starters, we recommend `@barktler/axios-driver`. You can see the supported driver's full list at [Driver Modules Status List](../modules/driver). You can also create your own driver if needed.
 
 To install `@barktler/axios-driver`, run the following command under your project folder.
 
@@ -14,7 +14,7 @@ yarn add @barktler/axios-driver
 npm install @barktler/axios-driver --save
 ```
 
-Barktler instance has different ways to find a driver to use; see [Search Driver](../document/search-driver.md) for more details.
+Barktler instance has different ways to find a driver to use; see [Search Driver](../document/search-driver) for more details.
 
 ## Execute
 
@@ -36,4 +36,4 @@ We also provided the `@barktler/mock-driver` that allow user mock and execute re
 
 ## Next
 
-See [Data Verify](./data-verify.md) for how to verify request and response data with your API.
+See [Data Verify](./data-verify) for how to verify request and response data with your API.
