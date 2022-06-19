@@ -11,12 +11,12 @@ This document will give a scenario to use API created by Barktler. Before gettin
 
 A driver is required for actually sending a request. For starters, we recommend `@barktler/axios-driver`. You can see the supported driver's full list at [Driver Modules Status List](../modules/driver). You can also create your own driver if needed.
 
-To install `@barktler/axios-driver`, run the following command under your project folder.
+To install `@barktler/driver-axios`, run the following command under your project folder.
 
 ```sh
-yarn add @barktler/axios-driver
+yarn add @barktler/driver-axios
 # Or
-npm install @barktler/axios-driver --save
+npm install @barktler/driver-axios --save
 ```
 
 Barktler instance has different ways to find a driver to use; see [Search Driver](../document/search-driver) for more details.
